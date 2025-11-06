@@ -1,7 +1,7 @@
 # CRUD de Clientes e Dashboard no Streamlit
 
 ## 🎯 Objetivo
-Prompt para Geração de Aplicativo CRUD e Dashboard de Clientes no Streamlit
+Aplicativo CRUD e Dashboard de Clientes no Streamlit
 
 ## 🧩 Funcionalidades Principais
 1. Carregamento e Tratamento de Dados
